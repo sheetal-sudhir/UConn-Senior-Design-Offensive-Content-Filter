@@ -12,7 +12,7 @@ The content filter was designed to proactively prevent the posting of offensive 
 - **Text Preprocessing**: Removal of stopwords, punctuation, and URL normalization to ensure accurate classification.
 
 ## Dataset:
-The dataset consists of **tweets**, each labeled as offensive (1) or non-offensive (0). It includes 24,818 labeled instances, with tweets preprocessed for text classification tasks.
+The dataset consists of **tweets** available on kaggle, each labeled as offensive (1) or non-offensive (0). It includes 24,818 labeled instances, with tweets preprocessed for text classification tasks.
 
 ## Technologies Used:
 - **Python**: Programming language used to develop the model and preprocess text data.
